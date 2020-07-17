@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+#header-left {
+    float: left;
+}
+
+#header-right {
+    float: right;
+    padding-top: 20px;
+}
+
+
+
+
+
